@@ -1,4 +1,4 @@
-(ns E004_Variables)
+(ns E004_Operators)
 
 ;; Operators example
 (defn main []
