@@ -6,7 +6,9 @@
 * See the LICENSE file for details.
 * You need to install **Clojure CLI** to your system. Please follow the [original source].
 # Resources For Learning Clojure
-* This part will be updated
+* https://www.braveclojure.com/
+* https://www.tutorialspoint.com/clojure/index.htm
+* https://kimh.github.io/clojure-by-example/#about
 # Build
 #### Tools Required
 * **JDK**
